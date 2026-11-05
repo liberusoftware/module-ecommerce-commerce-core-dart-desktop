@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-commerce-core-dart-desktop",
+  "capabilityKey": "planned:ecommerce:commerce-core",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_commerce_core_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/commerce-core.md",
+  "presentationPlan": "projects/ecommerce/features/commerce-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
